@@ -7,4 +7,5 @@ ios app that picks a random dota hero and shows its picture
 # Target platform:
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
-# Screenshot:
+# Demo:
+![gif](https://raw.githubusercontent.com/stefan-najdovski/Random-Hero/main/demo-screen.gif)
