@@ -10,8 +10,8 @@ ios app that picks a random dota hero and shows its picture
 # Demo:
 ![gif](https://raw.githubusercontent.com/stefan-najdovski/Random-Hero/main/demo-screen.gif)
 
-#Disclaimer:
-- I dont own the hero assets and the hosting of them, they belong to Valve, this project was made for educational purposes only! (So I can learn something and make something useful that I like.)
+# Important Disclaimer:
+- I dont own the hero assets and the hosting of them, they belong to Valve, this project was made for educational purposes only! (So I can learn something and make something useful that I am fan off.)
 
 <!-- LICENSE -->
 ## License
