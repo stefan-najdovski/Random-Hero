@@ -12,7 +12,7 @@ ios app that picks a random dota hero and shows its picture
 
 # What have I learned:
 
--Build XCode Project.
+- Build XCode Project.
 - How to override view function (Button Layout proper position on screen)
 - How to call Objective C code from Swift.
 - Convert array of strings to a URL.
